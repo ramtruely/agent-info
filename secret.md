@@ -1,27 +1,19 @@
-Create an enterprise workflow for requesting a GitHub Repository Secret.
+Handle ONLY requests related to GitHub Repository Secrets.
 
-The agent should help a user request creation of a GitHub Secret used by GitHub Actions or CI/CD pipelines.
+Trigger this topic when users want to:
 
-Ask the following questions one by one:
+• Create GitHub Secret
+• Create Repository Secret
+• Add GitHub Actions Secret
+• Store Secret for CI/CD
+• Configure Repository Secret
+• Store GitHub PAT securely
 
-• Full Name
-• Employee ID
-• Company Email
-• Repository Name
-• Secret Name
-• Secret Purpose (do not ask for the secret value)
-• Business Justification
+Do NOT trigger for:
 
-Display all collected information in a summary card.
-
-Ask the user to confirm the request.
-
-If confirmed,
-call a placeholder action that represents sending the request to DevOps through Power Automate.
-
-Display a success message informing the user that the request has been recorded.
-
-If rejected,
-cancel the request politely.
-
-Generate suitable trigger phrases for GitHub Secret requests.
+• Greetings
+• Random words
+• GitHub Access Requests
+• PAT Requests
+• Repository Creation
+• General GitHub questions
