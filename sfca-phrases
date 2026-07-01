@@ -1,52 +1,43 @@
-Handle ONLY requests related to Salesforce Code Analyzer (SFCA).
-
-This topic should answer knowledge questions and assist with Salesforce Code Analyzer, including:
+Handle ONLY Salesforce Code Analyzer (SFCA) requests.
 
 Salesforce Code Analyzer
 SFCA
 Run SFCA scan
 Run Salesforce Code Analyzer
-Scan my Salesforce project
+Scan Salesforce project
 Analyze Apex code
 Analyze LWC code
-Run code scan
-Code quality scan
 Static code analysis
 Security scan
+Code quality scan
 PMD scan
 ESLint scan
-CPD duplicate code scan
-Generate SFCA report
+CPD scan
+Generate scan report
 Generate HTML report
 Generate JSON report
 Generate SARIF report
-SFCA installation
-Install Salesforce Code Analyzer
-Update Salesforce Code Analyzer
-Salesforce CLI scanner
-sf scanner
-scanner commands
-scanner run
-scanner issues
-scanner violations
-scanner severity
-scanner troubleshooting
-Fix SFCA errors
-How to use SFCA
-SFCA best practices
-Explain SFCA report
+Install SFCA
+Update SFCA
+SFCA CLI
+SFCA commands
+SFCA troubleshooting
+Scanner errors
+Scanner violations
+Severity levels
 Interpret scan results
-CI/CD code analysis
-GitHub Actions code scan
-Azure DevOps code scan
-Jenkins code scan
+SFCA best practices
+GitHub Actions scan
+Azure DevOps scan
+Jenkins scan
 
-Do NOT trigger this topic for:
-GitHub PAT requests
-GitHub Secret requests
-Salesforce authentication requests
-SF_AUTH_URL questions
-General Salesforce development questions
+Do NOT trigger for:
+GitHub PAT
+GitHub Secrets
+SF_AUTH_URL
+Salesforce authentication
+General Salesforce development
 Greetings
-Random testing (test, hello, hi)
-Unrelated conversations
+test
+hello
+hi
