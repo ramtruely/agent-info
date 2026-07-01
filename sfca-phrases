@@ -1,43 +1,37 @@
-Handle ONLY Salesforce Code Analyzer (SFCA) requests.
+Handle ONLY Salesforce Code Analyzer (SFCA) related requests.
 
-Salesforce Code Analyzer
-SFCA
+Use this topic when the user wants to:
+• Run an SFCA scan
+• Analyze Salesforce code
+• Scan Apex, Lightning Web Components (LWC), Aura or JavaScript
+• Generate HTML, JSON or SARIF reports
+• Install or update Salesforce Code Analyzer
+• Use SFCA commands
+• Troubleshoot SFCA errors
+• Learn about PMD, ESLint, CPD or RetireJS rule engines
+• Understand scan reports and severity levels
+• Get SFCA CI/CD guidance for GitHub Actions, Azure DevOps or Jenkins
+
+Examples:
 Run SFCA scan
-Run Salesforce Code Analyzer
-Scan Salesforce project
-Analyze Apex code
-Analyze LWC code
-Static code analysis
-Security scan
-Code quality scan
-PMD scan
-ESLint scan
-CPD scan
-Generate scan report
-Generate HTML report
-Generate JSON report
-Generate SARIF report
-Install SFCA
-Update SFCA
-SFCA CLI
-SFCA commands
-SFCA troubleshooting
-Scanner errors
-Scanner violations
-Severity levels
-Interpret scan results
+Analyze my Apex code
+Scan my Salesforce project
+How do I install Salesforce Code Analyzer?
+How do I generate an HTML report?
+How do I generate a SARIF report?
+What is PMD?
+What is ESLint?
+Show SFCA commands
 SFCA best practices
-GitHub Actions scan
-Azure DevOps scan
-Jenkins scan
+SFCA troubleshooting
+SFCA CI/CD integration
 
-Do NOT trigger for:
-GitHub PAT
-GitHub Secrets
-SF_AUTH_URL
-Salesforce authentication
-General Salesforce development
-Greetings
-test
-hello
-hi
+Do NOT trigger this topic for:
+• GitHub Access requests
+• GitHub PAT Token requests
+• GitHub Secret requests
+• Salesforce authentication (SF_AUTH_URL)
+• Salesforce CLI authentication
+• Sandbox access requests
+• General Salesforce development questions unrelated to SFCA
+• Greetings or unrelated conversations
